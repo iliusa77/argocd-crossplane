@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<ваш-репозиторий>.git
+    repoURL: https://github.com/iliusa77/argocd-crossplane.git
     targetRevision: main
     path: crossplane/resources
   destination:
